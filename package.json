@@ -1,0 +1,25 @@
+{
+  "name": "portal",
+  "version": "1.0.0",
+  "description": "Student enrolement portal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git remote add origin https://github.com/stevesdiary/fastify-mysql.git"
+  },
+  "keywords": [
+    "fastify",
+    "plugin",
+    "mysql",
+    "database",
+    "api"
+  ],
+  "author": "Stephen Oyeyemi",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^4.2.0"
+  }
+}
